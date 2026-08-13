@@ -1,1 +1,4 @@
 # proyecto_th
+Juan Camilo Villanueva Montoya
+Sharon Daliana Campos Tique 
+Laura Valentina Chaves Pardo
