@@ -1,0 +1,192 @@
+*{
+    margin:0;
+    padding:0;
+}
+.header_emp{
+    background-color: rgb(95, 13, 95);
+    height: 120px;
+   
+}
+.logo_emp{
+    height:100px;
+    border-radius: 40px;
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.menu{
+    display: flex;
+    justify-content: center;
+    margin-top: -70px;
+}
+.navegacion{
+    list-style: none;
+    display: flex;
+    color: white;
+    gap:6.0rem;
+}
+.btn {
+    display: flex;
+    justify-content: flex-end; 
+    align-items: center;       
+    height: 80px;              
+    
+    width: 100%;
+    position: absolute;     
+    top: 0;
+    right: 0;
+}
+
+.but {
+    display: inline-flex;      
+    align-items: center;
+    justify-content: center;    
+    height: 45px;              
+    width: 180px;              
+    margin-right: 40px;       
+    background-color: #c2185b;
+    border-radius: 25px;
+    color: white;              
+    text-decoration: none;     
+    font-size: 14px;
+    margin-top: 30px;
+}
+.but i {
+    margin-left: 8px;
+}
+.ba_em{
+    display: flex;
+    justify-content: flex-end;
+}
+.bann_em{
+    width: 1000px;
+    height: 450px;
+}
+.title_As{
+    margin-left: 10px;
+   background-color: rgb(95, 13, 95) ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 300px;
+    margin-top: -430px;
+}
+.desc{
+    padding-left: 37px;
+    color: rgb(255, 255, 255);
+}
+.lateral1{
+    background-color: #1355b9;
+    width: 300px;
+    margin-top: 25px;
+    margin-left:10px;
+    border-radius: 10px;
+}
+.p_a{
+    color: rgb(2, 2, 2);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left:2px;
+}
+.mes{
+    color: #000000;
+    padding-left: 47px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.fa-trophy {
+    color: #ffc107;     
+    font-size: 20px;      
+}
+.fa-star{
+    color: #ffc107;     
+
+}
+.emp_mes{
+    display: flex;
+    height: 250px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.camp_re{
+    background-color: #1355b9;
+    width: 300px;
+    margin-top: 25px;
+    margin-left:10px;
+    border-radius: 10px;
+
+}
+.vac{
+    color: #000000;
+    padding-left: 47px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.p_re{
+    padding-top: 10px;
+    color: rgb(2, 2, 2);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left:2px;
+
+}
+.finan{
+    width: 320px;
+    margin-right: 10px;
+}
+.fa-piggy-bank{
+    color: salmon;
+}
+.fa-money-bills{
+    color: lawngreen;
+}
+.caja_pri{
+    display: flex;
+    background-color: rgb(95, 13, 95) ;
+    width: 330px;
+    height: 100px;
+    border-radius: 15px;
+    margin-left: 355px;
+    margin-top: -420px;
+
+}
+
+.title_1{
+    padding-left: 20px;
+    padding-top: 35px;
+    color:azure;
+}
+.caja_sec{
+    display: flex;
+    background-color: rgb(95, 13, 95) ;
+    width: 250px;
+    height: 100px;
+    border-radius: 15px;
+    margin-left: 730px;
+    margin-top: -100px;
+}
+
+.title_2{
+    padding-left: 50px;
+    padding-top: 35px;
+    color:azure;
+}
+.fa-people-group{
+    color: rgb(254, 255, 255);
+}
+.fa-briefcase{
+    color: rgb(10, 148, 72);
+}
+.caja_ter{
+    display: flex;
+    background-color: rgb(95, 13, 95) ;
+    width: 250px;
+    height: 100px;
+    border-radius: 15px;
+    margin-left: 1020px;
+    margin-top: -100px;
+}
+
+.title_3{
+    padding-left: 40px;
+    padding-top: 35px;
+    color:azure;
+}
+.fa-file-lines{
+    color: rgb(17, 0, 255);
+}

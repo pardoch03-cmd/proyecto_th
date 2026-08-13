@@ -1,0 +1,273 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*bodyyyy*/
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+header{
+    background-color:  rgb(95, 13, 95);;
+    height: 120px;
+}
+
+header img{
+    width: 60px;
+    height: 60px;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-left: 70px;
+}
+
+/*barra lateral*/
+
+.barra{
+    width: 220px;
+    background: rgb(95, 13, 95);
+    min-height: 100vh;
+}
+
+.login{
+    width: 100px;
+    height: 110px;
+    margin: 50px;
+    border-radius: 50%;
+}
+h3{
+    margin-top: -20px;
+    color: white;
+    text-align: center;
+}
+h2{
+    margin-top: 15px;
+    color: white;
+    text-align: center;
+
+}
+
+.barra ul {
+    list-style: none;
+}
+
+.barra a {
+    display: block;
+    padding: 30px;
+    color: white;
+    text-decoration: none;
+    border-bottom: 1px solid #d32828;
+}
+
+.barra a:hover {
+    
+    background: #b21252;
+    border-radius: 50px;
+}
+
+.bienvenido{
+    display: flex;
+}
+
+.bien{
+    background-color:#c2185b ;
+    color: white;
+    width: 820px;
+    height: 40px;
+    text-align: center;
+    margin-left: 320px;
+    margin-top: -599px;
+    border-radius: 15px;
+
+}
+
+/*sesiones */
+.contenedor_principal{
+    display: flex;
+    margin-top: -430px;
+
+}
+.mi_perfil{
+    display: flexbox;
+    background-color:#1C4461 ;
+    width: 450px;
+    height: 230px;
+    border-radius: 15px;
+    margin-left: 280px;
+    margin-top: -90px;
+    color: white;
+
+}
+  
+.perfi {
+    color: white;
+    text-align: center;
+    background-color: #c2185b; 
+    margin-top: 10px;
+    border-radius: 20px;
+}
+
+.per{
+    color: white;
+    text-align: center;
+    background-color: #c2185b; ;
+    margin-top: 10px;
+    border-radius: 20px;
+
+}
+
+.per{
+    color: white;
+    text-align: center;
+    background-color: #c2185b; 
+    margin-top: 10px;
+    border-radius: 20px;
+}
+
+.pe{
+    color: white;
+    text-align: center;
+    background-color: #c2185b; ;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+
+button{
+    display: flex;
+    justify-content: center;
+    background-color: greenyellow;
+    align-items: center;
+    margin-left: 150px;
+    width: 90px;
+    height: 30px;
+    border-radius: 15px;
+    margin-top: 1px;
+    padding: 5px;
+}
+
+
+/*hoja de vida*/
+
+.mi_hoja{
+    display: flexbox;
+    background-color:#1C4461 ;
+    width: 450px;
+    height: 200px;
+    border-radius: 15px;
+    color: white;
+    margin-top: 170px;
+    margin-left: -400px;
+    margin-left: -410px;
+   
+    
+}
+  
+.hoja_vida {
+    color: white;
+    text-align: center;
+    background-color: #c2185b; 
+    margin-top: 20px;
+    border-radius: 20px;
+    height: 35px;
+    
+}
+
+.hoja{
+    color: white;
+    text-align: center;
+    background-color: #c2185b; ;
+    margin-top: 10px;
+    border-radius: 20px;
+
+}
+
+.hoj{
+    color: white;
+    text-align: center;
+    background-color: #c2185b; ;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+
+/*novedades*/
+
+.mi_nove{
+    display: flexbox;
+    background-color:#1C4461 ;
+    width: 550px;
+    height: 230px;
+    border-radius: 15px;
+    margin-left: 200px;
+    margin-top: 40px;
+    color: white;
+    margin-left: 100px;
+    margin-top: -90px;
+
+    margin-right: 40px;
+
+}
+  
+.novedades {
+    color: white;
+    text-align: center;
+    background-color: #c2185b; 
+    margin-top: 10px;
+    border-radius: 20px;
+    height: 35px;
+}
+
+.nove{
+    color: white;
+    text-align: center;
+    background-color: #c2185b; ;
+    margin-top: 10px;
+    border-radius: 20px;
+
+}
+
+.nov{
+    color: white;
+    text-align: center;
+    background-color: #c2185b; 
+    margin-top: 10px;
+    border-radius: 20px;
+}
+
+.no{
+    color: white;
+    text-align: center;
+    background-color: #c2185b; ;
+    margin-top: 10px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.btn{
+    background-color: greenyellow;
+    margin-left: 200px;
+    width: 120px;
+    height: 30px;
+    border-radius: 15px;
+    margin-top: 1px
+}
+
+.img{
+    width: 480px;
+    height: 230px;
+    margin-top: -1700px;
+    margin-right: 550px;
+    margin-left: 780px;
+    
+}
+
+
+
+
+
+
+
+

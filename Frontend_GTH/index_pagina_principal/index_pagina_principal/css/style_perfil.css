@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*bodyyyy*/
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+header{
+    background-color:  rgb(95, 13, 95);;
+    height: 120px;
+}
+
+header img{
+    width: 60px;
+    height: 60px;
+    border-radius: 20px;
+    margin-top: 150px;
+    margin-left: 250px;
+    
+}
+
+/*barra lateral*/
+
+.barra{
+    width: 220px;
+    background: rgb(95, 13, 95);
+    min-height: 100vh;
+}
+
+.login{
+    width: 100px;
+    height: 110px;
+    margin: 50px;
+    border-radius: 50%;
+}
+h3{
+    margin-top: -20px;
+    color: white;
+    text-align: center;
+}
+h2{
+    margin-top: 15px;
+    color: white;
+    text-align: center;
+
+}
+
+.barra ul {
+    list-style: none;
+}
+
+.barra a {
+    display: block;
+    padding: 30px;
+    color: white;
+    text-decoration: none;
+    border-bottom: 1px solid #d32828;
+}
+
+.barra a:hover {
+    
+    background: #b21252;
+    border-radius: 50px;
+}
+
+.miper{
+    display: flex;
+}
+
+.perfil{
+    background-color:#c2185b ;
+    color: white;
+    width: 800px;
+    height: 40px;
+    text-align: center;
+    margin-left: 380px;
+    margin-top: -599px;
+    border-radius: 15px;
+
+}
+
+/*sesiones */
+.info_per{
+    display: flex;
+    margin-top: -430px;
+
+}
+.informacion_personal{
+    display: flexbox;
+    background-color:#1C4461 ;
+    width: 450px;
+    height: 450px;
+    border-radius: 15px;
+    margin-left: 280px;
+    margin-top: -90px;
+    color: white;
+
+}
+  
+.infor {
+    color: white;
+    text-align: center;
+    background-color: #c2185b; 
+    margin-top: 10px;
+    border-radius: 20px;
+    height: 40px;
+}
+
+.info{
+    color: white;
+    text-align: center;
+    background-color: #c2185b; ;
+    margin-top: 50px;
+    border-radius: 20px;
+    height: 40px;
+}
+
+.inf{
+    color: white;
+    text-align: center;
+    background-color: #c2185b; 
+    margin-top: 50px;
+    border-radius: 20px;
+    height: 40px;
+}
+
+.in{
+    color: white;
+    text-align: center;
+    background-color: #c2185b; ;
+    margin-top:50px;
+    border-radius: 20px;
+    height: 40px;
+}
+
+button{
+    display: flex;
+    justify-content: center;
+    background-color: greenyellow;
+    align-items: center;
+    margin-left: 160px;
+    width:  150px;
+    height: 50px;
+    border-radius: 15px;
+    margin-top: 40px;
+    padding: 5px;
+    
+}
+
+/*acciones*/
+.acci{
+    display: flex;
+    margin-top: -430px;
+
+}
+.acciones{
+    display: flexbox;
+    background-color:#1C4461 ;
+    width: 450px;
+    height: 450px;
+    border-radius: 15px;
+    margin-left: 820px;
+    margin-top: -20px;
+    color: white;
+   
+
+}
+
+.accio{
+    color: white;
+    text-align: center;
+    background-color: #c2185b; ;
+    margin-top: 10px;
+    border-radius: 20px;
+    height: 40px;
+}
+  
+.botonn{
+    display: flex;
+    justify-content: center;
+    background-color: greenyellow;
+    align-items: center;
+    margin-left: 160px;
+    width: 150px;
+    height: 50px;
+    border-radius: 15px;
+    margin-top: 50px;
+    padding: 5px;
+}
+
+.boton{    
+   
+    justify-content: center;
+    background-color: greenyellow;
+    align-items: center;
+    margin-left: 160px;
+    width: 150px;
+    height: 50px;
+    border-radius: 15px;
+    margin-top: 50px;
+    padding: 5px;
+}
+
